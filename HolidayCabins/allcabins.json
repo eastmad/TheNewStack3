@@ -1,0 +1,45 @@
+﻿[
+    {
+        "Number": 6,
+        "Name": "Hill View",
+        "Capacity": 5,
+        "From": "2023/01/01",
+        "To": "2023/12/21"
+    },
+    {
+        "Number": 3,
+        "Name": "Summerholme",
+        "Capacity": 2,
+        "From": "2023/06/01",
+        "To": "2023/08/31"
+    },
+    {
+        "Number": 4,
+        "Name": "Dunroamin",
+        "Capacity": 4,
+        "From": "2023/03/01",
+        "To": "2023/10/31"
+    },
+    {
+        "Number": 2,
+        "Name": "Hobbit Hole",
+        "Capacity": 2,
+        "From": "2023/03/01",
+        "To": "2023/10/31"
+    },
+    {
+        "Number": 7,
+        "Name": "Bear Crescent",
+        "Capacity": 3,
+        "From": "2023/10/01",
+        "To": "2024/02/01"
+    },
+    {
+        "Number": 9,
+        "Name": "Fat Cottage",
+        "Capacity": 8,
+        "From": "2023/01/02",
+        "To": "2023/11/30"
+    }
+
+]
